@@ -1,0 +1,10 @@
+**Location: c:xampp>htdocs>[project name]**
+**Database Name: chatigniter**
+**Paste sql file in "chatigniter database"**
+**First signup Then chat**
+**Recommended PHP Version 7.1.0 or Newer**
+
+Demo Users
+1. email:freelancermunna4@gmail.com pass:1234
+2. email:sohan@gmail.com pass:1234
+3. email:sample@gmail.com pass:password
